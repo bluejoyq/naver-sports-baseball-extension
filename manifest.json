@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "네이버 스포츠 확장",
-    "description": "네이버 스포츠의 야구 중계 페이지에 기능을 추가합니다.",
+    "description": "네이버 스포츠에 기능을 추가하는 비공식 확장 프로그램입니다.",
     "version": "1.0.0",
     "action": {
         "default_icon": "public/icon-128.png"

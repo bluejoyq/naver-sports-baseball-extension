@@ -9,3 +9,9 @@
 
 ### 이후
 ![](public/screenshot-after.png)
+
+## 목적
+야구 보다가 짜증나서 만듬
+
+## 설치
+TBA
