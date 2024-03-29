@@ -4,11 +4,11 @@
 ## 기능
 야구 중계 화면의 2가지 UI를 하나로 합쳐줍니다. 
 ### 이전
-![](public/screenshot-before.png)
-![](public/screenshot-before2.png)
+![](docs/screenshot-before.png)
+![](docs/screenshot-before2.png)
 
 ### 이후
-![](public/screenshot-after.png)
+![](docs/screenshot-after.png)
 
 ## 목적
 야구 보다가 짜증나서 만듬
