@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "네이버 스포츠 확장",
+    "description": "네이버 스포츠의 야구 중계 페이지에 기능을 추가합니다.",
+    "version": "1.0.0",
+    "action": {
+        "default_icon": "public/icon-128.png"
+    },
+    "icons": {
+        "128": "public/icon-128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://m.sports.naver.com/game/*"
+            ],
+            "js": [
+                "src/main.ts"
+            ]
+        }
+    ]
+}
